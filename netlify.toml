@@ -1,0 +1,3 @@
+[build]
+  command = "chmod +x * && python3 m.py"
+  publish = "bgmi"
